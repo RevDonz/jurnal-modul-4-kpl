@@ -3,9 +3,9 @@
 public class MainClass
 {
     public static void Main(string[] args)
-    {
+    {   
         // NIM = 1302204051
-        Penjumlahan.JumlahTigaAngka<float>(12.0f, 02.0f, 20.0f);
+        Penjumlahan.JumlahTigaAngka<float>(13, 02, 20);
         SimpleDataBase<float> objData1 = new SimpleDataBase<float>();
         objData1.AddNewData(13f);
         objData1.AddNewData(02f);
