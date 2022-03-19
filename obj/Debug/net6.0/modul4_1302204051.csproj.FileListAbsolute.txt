@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 4\modul4_1302204051\bin\Debug\net6.0\modul4_1302204051.exe
 E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 4\modul4_1302204051\bin\Debug\net6.0\modul4_1302204051.deps.json
 E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 4\modul4_1302204051\bin\Debug\net6.0\modul4_1302204051.runtimeconfig.json
 E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 4\modul4_1302204051\bin\Debug\net6.0\modul4_1302204051.dll
 E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 4\modul4_1302204051\bin\Debug\net6.0\modul4_1302204051.pdb
+=======
+>>>>>>> implementasi-generic-class
 E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 4\modul4_1302204051\obj\Debug\net6.0\modul4_1302204051.csproj.AssemblyReference.cache
 E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 4\modul4_1302204051\obj\Debug\net6.0\modul4_1302204051.GeneratedMSBuildEditorConfig.editorconfig
 E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 4\modul4_1302204051\obj\Debug\net6.0\modul4_1302204051.AssemblyInfoInputs.cache
